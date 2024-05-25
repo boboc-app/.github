@@ -4,9 +4,8 @@ Develop and Publish Spring or Kotlin-related open-source libraries.
 
 - webflux-websocket-coroutine (https://github.com/bluelips-app/webflux-websocket-coroutine)
   - handler as coroutine
-- webflux-websocket-coroutine-extension - comming soon
-- grpc-kotlin-helper - comming soon
-  - Data class <-> gRPC Message transformation
+- webflux-websocket-coroutine-extension (https://github.com/bluelips-app/webflux-websocket-coroutine)
+- data-weaver
 
 <!--
 
