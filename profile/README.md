@@ -1,4 +1,4 @@
-## Blue Lips App
+## BoBoC App
 
 Develop and Publish Spring or Kotlin-related open-source libraries.
 
