@@ -2,10 +2,10 @@
 
 Develop and Publish Spring or Kotlin-related open-source libraries.
 
-- webflux-websocket-coroutine (https://github.com/bluelips-app/webflux-websocket-coroutine)
+- webflux-websocket-coroutine (https://github.com/boboc-app/webflux-websocket-coroutine)
   - handler as coroutine
-- webflux-websocket-coroutine-extension (https://github.com/bluelips-app/webflux-websocket-coroutine)
-- data-weaver
+- webflux-websocket-coroutine-extension (https://github.com/boboc-app/webflux-websocket-coroutine)
+- spring-cloud-github (https://github.com/boboc-app/spring-cloud-github)
 
 <!--
 
